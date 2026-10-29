@@ -1,0 +1,15 @@
+WEEK 3 - PREDICT STUDENT PERFORMANCE
+===================================
+Valid dataset rows: 10000
+Rows removed due to missing/non-numeric values: 0
+Training rows: 8000
+Testing rows: 2000
+R2 Score: 0.9887
+Mean Absolute Error (MAE): 1.6297
+
+Model: Linear Regression
+Train-test split: 80% training / 20% testing
+Random state: 42
+
+Note: R2 is a goodness-of-fit score, not classification accuracy.
+MAE is the average absolute prediction error in Performance Index units.
